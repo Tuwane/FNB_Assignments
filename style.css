@@ -1,0 +1,43 @@
+h1{
+color : green;
+font-family:sans-serif;
+
+}
+p{
+color : coral;
+font-family: fantasy;
+}
+ul{
+style-list:circle;
+}
+ol{
+style-list:upper-roman;
+}
+p1{
+
+color: lightblue; 
+}
+p2{
+
+color:gray;
+}
+
+p3{
+
+color:silver;
+}
+p4{
+
+color:green;
+}
+"menu-bar a{
+font-family: helvetica,sans-serif;
+text-decoration : none;
+background-color : aquamarine;
+padding : 5px;
+}
+"menu-bar a:hover{
+background-color : aqua;
+color : #ffffff;
+}
+
