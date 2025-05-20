@@ -9,6 +9,7 @@ font-family: fantasy;
 }
 ul{
 style-list:circle;
+style-list-image:url('images/pointer-icon.png');
 }
 ol{
 style-list:upper-roman;
@@ -40,4 +41,5 @@ padding : 5px;
 background-color : aqua;
 color : #ffffff;
 }
+
 
